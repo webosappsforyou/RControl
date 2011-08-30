@@ -1,0 +1,24 @@
+/* Copyright 2009-2011 Hewlett-Packard Development Company, L.P. All rights reserved. */
+enyo.depends(
+    "stylesheets/sampleserviceapplication.css",
+	"include/scroller.js",
+	"include/base64.js",
+    "include/black.css",
+    "include/des.js",
+    "include/display.js",
+    "include/input.js",
+    "include/logo.js",
+    "include/plain.css",
+    "include/playback.js",
+    "include/rfb.js",
+    "include/ui.js",
+    "include/util.js",
+    "include/vnc.js",
+    "include/websock.js",
+    "include/webutil.js",
+    "images/",
+    "tests/",
+    "utils/",
+    "docs/",
+    "$enyo-lib/systemui/"
+);

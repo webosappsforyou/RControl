@@ -1,0 +1,10 @@
+{
+"id": "com.prenewbie.rcontrol",
+"version": "0.0.1",
+"vendor": "prenewbie",
+"type": "web",
+"main": "index.html",
+"title": "RControl Beta",
+"icon": "icon.png",
+	"uiRevision":2
+}

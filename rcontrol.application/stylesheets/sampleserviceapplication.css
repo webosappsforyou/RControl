@@ -1,0 +1,23 @@
+/* TODO: put your application-specific CSS here */
+.enyo-input-input {
+    display: block;
+    border: none;
+    margin: 0;
+    outline: none;
+    background-color: transparent;
+    padding: 0;
+    width: 100%;
+    -webkit-appearance: caret;
+    -webkit-box-sizing: border-box;
+    cursor: pointer;
+    font-size: 16px; /*.9rem;*/
+}
+
+#omw_scrollpane
+{
+width:600px;
+height:600px;
+overflow:auto;
+border: solid 1px white;
+background-color:white;
+}

@@ -1,0 +1,12 @@
+{
+  "id": "com.prenewbie.rcontrol",
+  "package_format_version": 2,
+  "loc_name": "RCtonrol Beta",
+  "version": "0.0.1",
+  "icon": "icon.png",
+  "miniicon": "icon.png",
+  "vendor": "prenewbie",
+  "vendorurl": "webosappsforyou.blogspot.com",
+  "app": "com.prenewbie.rcontrol",
+  "services": ["com.prenewbie.rcontrol.service"]
+}

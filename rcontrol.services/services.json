@@ -1,0 +1,16 @@
+{
+"id": "com.prenewbie.rcontrol.service",
+"description": "RControl Proxy Server",
+"activityTimeout" : 30,
+"services": [{
+"name": "com.prenewbie.rcontrol.service",
+"description": "RControl Proxy Server",
+"commands": [{
+    "name" : "proxify",
+    "assistant" : "ProxyAssistant",
+    "public" : true,
+    "subscribe": true,
+    "watch": true
+    }]
+ }]
+}
